@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(216, 216, 251);
+
+}
+
+.imageB img{
+    border-radius: 15px 50px;
+}
+
+.box{
+    border: 1px solid red;
+    margin: 0px auto;
+}
+
+.btnC{
+    background-color: blueviolet;
+    color: white;
+}
+.btnC:hover{
+    border: 1px solid blueviolet;
+    color: rgb(184, 13, 184);
+}
+
+.btnCo{
+    border: 1px solid blueviolet;
+    color: rgb(184, 13, 184);
+
+}
+.btnCo:hover{
+    background-color: blueviolet;
+    color: white;
+
+}
